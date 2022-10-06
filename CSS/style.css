@@ -1,0 +1,85 @@
+body{
+    color: #111111;
+
+}
+h2{
+    padding: 3%;
+}
+h3{
+    text-align: center;
+    padding-bottom: 8%;
+}
+/* TITILE SECTION */
+.wmg_logo{
+    height: 5.5rem;
+    width: 5.5rem;
+}
+#title{
+    padding: 3% 15%;
+    background-color: #e4f0f8;
+}
+#colornav{
+    color: #111111;
+}
+#timee{
+    padding-top: 89px;
+}
+#butshift{
+    padding-right: 151px;
+}
+/* .timeee{
+    /* text-align: right; */
+ 
+.title{
+    font-family: sans-serif;
+    font-size:2.1rem;
+    font-weight: bold;
+    color: rgb(15, 15, 15);
+    margin-top: 20% ;
+}
+.description{
+    margin-bottom: 2rem;
+    color: rgb(0, 0, 0);
+    margin-bottom: 13px
+    /* text-align: center; */
+}
+.btnn{
+    margin: 0.5rem;
+
+}
+/* .peopleimg{
+    margin-left: 35%;
+
+} */
+
+
+
+/* COPYRIGHT SECTION */
+#copyright{
+    background-color: rgba(128, 187, 226, 0.952);
+    text-align: center;
+}
+.copy{
+    margin-bottom: 0rem;
+    padding: 1%;
+}
+.WmgLightBlueLogo{
+    height: 8rem;
+    margin: 1%;
+}
+.icons{
+    color: black;
+    padding: 1%;
+}
+.OMKAR{
+    padding-left: 50%;
+}
+@media (max-width:755px){
+    .peopleimg{
+       height: 100%;
+       width: 100%;
+    
+    }
+  
+    
+}
